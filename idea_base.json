@@ -1,0 +1,22 @@
+{
+  "microbe cement": {
+    "status": "Has been done",
+    "keywords": ["microorganism", "cement", "brick", "temperature"],
+    "summary": "This is called Microbially Induced Calcite Precipitation (MICP). Bacteria like *Sporosarcina pasteurii* are used to strengthen bricks and reduce heat.",
+    "start_steps": [
+      "Study MICP using ureolytic bacteria",
+      "Get nutrient agar, urea, and bacterial cultures",
+      "Test on sand or clay bricks for basic hardness + insulation"
+    ]
+  },
+  "biopaint": {
+    "status": "Concept in progress",
+    "keywords": ["algae", "paint", "air purification"],
+    "summary": "Some researchers are exploring microalgae-infused paint for air cleaning and eco-cooling. Viability depends on moisture and photosynthesis access.",
+    "start_steps": [
+      "Explore algae like Chlorella that survive in films",
+      "Test binding to paint base (hydrogels, natural binders)",
+      "Measure air quality impact in small rooms"
+    ]
+  }
+}
